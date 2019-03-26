@@ -4,6 +4,13 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Uri Lessons">
             <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/chesssystem/Program.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/boardgame/Position.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/chesssystem/UI.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/boardgame/Piece.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/chess/Color.java</file>
+            <file>file:/C:/Users/ccgab/Documents/Estudos/Languagens/Java/Projects/chess-system/src/chess/ChessMatch.java</file>
         </group>
     </open-files>
 </project-private>
