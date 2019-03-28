@@ -26,6 +26,11 @@ public class Position { // Responsável por pegar a posição de uma determinada
         this.column = column;
     }
     
+    public void setValues(int row, int column){
+        this.row = row;
+        this.column = column;
+    }
+    
     @Override
     public String toString() {
         return row + ", " + column;
