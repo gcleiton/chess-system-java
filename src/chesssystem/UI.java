@@ -70,6 +70,7 @@ public class UI {
         if(background) {
             System.out.print(ANSI_BLUE_BACKGROUND);
         }
+        
         if (piece == null) {
             System.out.print("-" + ANSI_RESET);
         } else {
